@@ -10,7 +10,7 @@
 </head>
 <body>
 <!--<iframe width="100%" height="100%" src="dashboard.html" />-->
-<iframe width="100%" height="100%" src="http://d9c24252fce8d4.in04.hostcontrol.com/" />
+<iframe width="100%" height="100%" src="index.html" />
 </body>
 </html>
 <?php
