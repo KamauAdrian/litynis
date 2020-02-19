@@ -1,0 +1,192 @@
+@import url("//in05.hostcontrol.com/resources/css/base-cenda-v1.css");
+.page h1,.page h2,.page h3,.page h4,.page h5,.page h6{color:#888}
+.page p{color:#888}
+.page .jumbotron-wrapper{
+    background:url('#') no-repeat scroll 0 / cover;
+}
+.page .jumbotron-wrapper .jumbotron h1,.page .jumbotron-wrapper .jumbotron h2,.page .jumbotron-wrapper .jumbotron h3,.page .jumbotron-wrapper .jumobtron h4,.page .jumbotron-wrapper .jumbotron h5,.page .jumbotron-wrapper .jumbotron h6,.page .jumbotron-wrapper .jumbotron p,.page .jumbotron-wrapper .jumbotron a{color:#fff}
+.page .header-image-wrapper{
+    background:url('#') no-repeat scroll 0 / cover;
+}
+.page .header-container h1{
+    color:#fff;
+}
+.page.page-edit-mode .navigation-wrapper{
+    position:absolute;
+}
+.page .nav-menu .active a{
+    color:#16a085;
+}
+.page .navigation-wrapper{
+    background:#0000ff;
+}
+.page ul.nav-menu li ul li a,.page ul.nav-menu li a:hover{
+    background:#0000ff;
+}
+.page ul.nav-menu li ul li a:hover{
+    background:#16a085;
+}
+.page .main-menu .slide-trigger{
+    background:#16a085;
+}
+
+.page .span3 .text-content:hover{
+
+    background:#f7faf9;
+
+}
+.page .parallax-wrapper{
+    background:url('#') no-repeat scroll 0 / cover;
+}
+
+.page .footer-wrapper,.page .footer-sub-wrapper{
+
+    background:#888
+}
+
+.page .footer-wrapper h1,.page .footer-wrapper h2,.page .footer-wrapper h3,.page .footer-wrapper h4,.page .footer-wrapper h5,.page .footer-wrapper h6{color:#fff}
+.page .footer-wrapper p,.page .footer-wrapper a{
+    color:#fff;
+}
+@font-face{
+    font-family:'socicon';src:url('//in05.hostcontrol.com/resources/fonts/socicon-webfont.eot');
+    src:url('//in05.hostcontrol.com/resources/fonts/socicon-webfont.eot?#iefix') format('embedded-opentype'),url('//in05.hostcontrol.com/resources/fonts/socicon-webfont.woff') format('woff'),url('//in05.hostcontrol.com/resources/fonts/socicon-webfont.ttf') format('truetype'),url('//in05.hostcontrol.com/resources/fonts/socicon-webfont.svg#englebertregular') format('svg');
+    font-weight:normal;
+    font-style:normal;
+}
+
+.page .social{
+
+    margin-left:0
+}
+.page ul.social li{
+
+    display:inline-block
+
+}
+
+.page .social-icon{
+    font-family:'socicon' !important;
+    font-size:14px;
+    color:#acb0b5 !important;
+    border:1px solid #6c7885;
+    padding:6px 8px;
+    margin:15px 10px 5px 0;
+    display:block;
+}
+
+.page .social-icon:hover{
+
+    text-decoration:none;
+    background:#0000ff;
+    color:#008000 !important;
+
+}
+
+.page .social-icon{
+
+    font-family:'socicon' !important;
+    font-size:14px;text-align:center;
+    color:#fff !important;border:1px solid #fff;
+    padding:6px 8px;margin:15px 10px 5px 0;display:block
+
+}
+
+.page .footer-wrapper .social-icon,.page .footer-sub-wrapper .social-icon{
+    font-family:'socicon' !important;
+    font-size:14px;
+    text-align:center;
+    color:#fff !important;
+    border:1px solid #fff;
+    padding:6px 8px;
+    margin:15px 10px 5px 0;
+    display:block;
+}
+
+.page .btn,.page .product-catalog [role=button]{
+    color:#0000ff;
+    border:2px solid #0000ff;
+}
+
+.page .btn:hover,.page .jumbotron-wrapper .btn.btn-large{
+    background:#0000ff;
+    border:2px solid #0000ff;
+}
+
+.page .jumbotron-wrapper .btn.btn-large:hover{
+
+    background:#fff;
+    color:#008000;
+    border:2px solid #000000;
+}
+
+
+.page ul.nav-menu li.active a,.page .nav-menu .active .page .nav-menu li a:hover,.page .parent.has_children li a:hover,.page .nav-menu li a:hover{
+    color:#000000 !important;
+}
+
+.page .nav-menu{
+
+    background:#0000ff;
+
+}
+
+.page .navigation-wrapper h1{
+
+    text-align:left;
+    margin:11px 0 15px -30px;
+
+}
+
+
+.page p{
+
+    font-family:Montserrat;
+    font-size:16px;
+
+}
+
+.page .container{
+
+    font-family:Montserrat;
+    font-size:16px;
+
+}
+
+.page h1{
+
+    font-family:Montserrat;
+    font-size:34px;
+}
+
+.page h2{
+
+    font-family:Montserrat;
+    font-size:30px
+}
+
+.page h3{
+
+    font-family:Montserrat;
+    font-size:28px;
+}
+
+.page .btn{
+
+    font-family:Montserrat;
+    font-size:14px;
+
+}
+
+.page .logo-text{
+
+    font-family:Montserrat;
+    font-size:50px;
+}
+
+.page nav{
+
+    font-family:Montserrat;
+    font-size:8px;
+
+}
