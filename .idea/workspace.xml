@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a7cd33eb-dcd0-48f4-8f4e-f2816ca75eaa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/career_counseling.html" beforeDir="false" afterPath="$PROJECT_DIR$/career_counseling.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact_us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exambooking.html" beforeDir="false" afterPath="$PROJECT_DIR$/exambooking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/testimg1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/testimg2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/immigration.html" beforeDir="false" afterPath="$PROJECT_DIR$/immigration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_destination.html" beforeDir="false" afterPath="$PROJECT_DIR$/study_destination.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/university_admission.html" beforeDir="false" afterPath="$PROJECT_DIR$/university_admission.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visa_guidance.html" beforeDir="false" afterPath="$PROJECT_DIR$/visa_guidance.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../litynus" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -75,6 +66,9 @@
       <option name="presentableId" value="Default" />
       <updated>1582093383874</updated>
       <workItem from="1582093385475" duration="9907000" />
+      <workItem from="1582105356941" duration="917000" />
+      <workItem from="1582116824528" duration="657000" />
+      <workItem from="1582123196594" duration="1696000" />
     </task>
     <servers />
   </component>
@@ -82,13 +76,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="583" y="187" width="424" height="482" key="FileChooserDialogImpl" timestamp="1582102494118">
+    <state x="583" y="187" width="424" height="482" key="FileChooserDialogImpl" timestamp="1582123341371">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="583" y="187" width="424" height="482" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1582102494118" />
+    <state x="583" y="187" width="424" height="482" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1582123341371" />
     <state x="620" y="355" width="349" height="146" key="NewPhpFileDialog" timestamp="1582093398148">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="620" y="355" width="349" height="146" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1582093398148" />
+    <state x="493" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1582123332455">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="493" y="256" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1582123332455" />
   </component>
 </project>
