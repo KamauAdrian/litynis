@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7cd33eb-dcd0-48f4-8f4e-f2816ca75eaa" name="Default Changelist" comment="" />
+    <list default="true" id="a7cd33eb-dcd0-48f4-8f4e-f2816ca75eaa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Agriculture" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../projectA" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -72,7 +74,9 @@
       <workItem from="1582270737441" duration="2171000" />
       <workItem from="1582277119077" duration="705000" />
       <workItem from="1582278883015" duration="368000" />
-      <workItem from="1582610213929" duration="4038000" />
+      <workItem from="1582610213929" duration="5529000" />
+      <workItem from="1582696958397" duration="596000" />
+      <workItem from="1582735368072" duration="27000" />
     </task>
     <servers />
   </component>
@@ -80,10 +84,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="583" y="187" width="424" height="482" key="FileChooserDialogImpl" timestamp="1582270754077">
+    <state x="583" y="187" width="424" height="482" key="FileChooserDialogImpl" timestamp="1582735393571">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="583" y="187" width="424" height="482" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1582270754077" />
+    <state x="583" y="187" width="424" height="482" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1582735393571" />
     <state x="620" y="355" width="349" height="146" key="NewPhpFileDialog" timestamp="1582093398148">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
